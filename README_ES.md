@@ -15,3 +15,7 @@ Este proyecto forma parte de mi Trabajo de Fin de Grado en Biotecnología y cons
 - Pandas, Matplotlib, Seaborn
 - Request
 - ModesLab (análisis externo)
+
+## Ejecutar la aplicación
+```bash
+streamlit run target.py
