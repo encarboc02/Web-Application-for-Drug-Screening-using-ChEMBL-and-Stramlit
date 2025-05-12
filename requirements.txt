@@ -1,0 +1,7 @@
+streamlit
+pandas
+matplotlib
+seaborn
+rdkit
+requests
+chembl_webresource_client
