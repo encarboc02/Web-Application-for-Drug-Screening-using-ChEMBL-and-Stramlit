@@ -16,3 +16,5 @@ This project consist in my Biotechnology Bachelor's Thesis and focuses on buildi
 - Modeslab (external analysis)
 
 ## Launch the app
+```bash
+streamlit run target.py
